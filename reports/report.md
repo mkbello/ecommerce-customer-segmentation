@@ -1,6 +1,11 @@
 # E-Commerce Customer Segmentation Report
 
-## Introduction
+**Prepared by:** Muktar Bello  
+**Date:** February 22, 2026  
+
+---
+
+## Project Overview
 This project analyzes transactional data from an e-commerce retail business to uncover key revenue drivers, customer behavior patterns, and opportunities for growth. Using Python for data cleaning and RFM (Recency, Frequency, Monetary) segmentation, customers were classified into strategic groups: **Champions, Loyal Customers, Frequent Buyers, and At Risk customers** to better understand their value and purchasing habits.
 
 The goal of this project is to provide actionable insights through an interactive **Power BI dashboard** that visualizes sales performance, customer segmentation, product trends, and geographic distribution.
@@ -87,9 +92,4 @@ The goal of this project is to provide actionable insights through an interactiv
 The analysis shows that revenue is heavily driven by a small group of high-value customers, emphasizing the need for strong retention strategies. Sales are concentrated in key markets like the United Kingdom and the Netherlands, while a few top-performing products generate a significant share of total revenue. 
 
 The high proportion of At Risk customers presents both a challenge and an opportunity for targeted re-engagement. Overall, RFM segmentation provides actionable insights to improve customer retention, optimize marketing efforts, and support sustainable revenue growth.
-
----
-
-*Prepared by: Muktar Bello*  
-*Date: 2026-02-22*
 
